@@ -4,9 +4,13 @@
   "updated": "2026-11-16",
   "accounts": [],
   "latest": {
-   "version": "0.5.1",
-   "how": "Ask the person who gave you the Kit for the new file."
+   "version": "0.6.1",
+   "no": 21,
+   "file": "dawah-kit-0.6.1.bin",
+   "sha256": "84dfd9232ce8cf23e688d488247211b2963f21de277c7170a27779d5f7c25fee",
+   "size": 10383169,
+   "how": "It is fetched by itself at the start of your next run."
   }
  },
- "sig": "JpB6jdYj8auaArc6knau/a7IvhsjViT+ju2OSM8Hn4xBUUw86VSZvLp+pnzOAT2f9z+7WcxKxLs1MTM2KawmCg=="
+ "sig": "RP+A0lb1h+4tDyunAEYzhyJ2I1MY0OmyxUyPBOrmdo+6uu+30Rv5P5w3ypf6w4+A2VOCpx+dMR+Np6ERhbXeAw=="
 }
