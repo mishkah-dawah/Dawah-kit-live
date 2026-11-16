@@ -1,0 +1,12 @@
+{
+ "status": {
+  "schema": "dawah-kit-status/1",
+  "updated": "2026-11-16",
+  "accounts": [],
+  "latest": {
+   "version": "0.5.1",
+   "how": "Ask the person who gave you the Kit for the new file."
+  }
+ },
+ "sig": "JpB6jdYj8auaArc6knau/a7IvhsjViT+ju2OSM8Hn4xBUUw86VSZvLp+pnzOAT2f9z+7WcxKxLs1MTM2KawmCg=="
+}
