@@ -1,16 +1,16 @@
 {
  "status": {
   "schema": "dawah-kit-status/1",
-  "updated": "2026-11-16",
+  "updated": "2026-11-18",
   "accounts": [],
   "latest": {
-   "version": "0.6.1",
-   "no": 21,
-   "file": "dawah-kit-0.6.1.bin",
-   "sha256": "84dfd9232ce8cf23e688d488247211b2963f21de277c7170a27779d5f7c25fee",
-   "size": 10383169,
+   "version": "0.6.2",
+   "no": 22,
+   "file": "dawah-kit-0.6.2.bin",
+   "sha256": "37577bd46ae054bfdd6e4f9ede8cbbdf194f2bcd7cc2e7ea5d5b63fb9db596e9",
+   "size": 10480371,
    "how": "It is fetched by itself at the start of your next run."
   }
  },
- "sig": "RP+A0lb1h+4tDyunAEYzhyJ2I1MY0OmyxUyPBOrmdo+6uu+30Rv5P5w3ypf6w4+A2VOCpx+dMR+Np6ERhbXeAw=="
+ "sig": "zXFmIz5hcq0ICDUuA1u10DlGK9E7NyNKwTFkqVZhcdKGaT6W1NKqbJApcaoV83FKUYFRpwj0RXwSNRBY46azDQ=="
 }
